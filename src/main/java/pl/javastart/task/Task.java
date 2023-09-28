@@ -21,8 +21,6 @@ public class Task {
         this(name, description, 0, null);   // domyślnym priorytetem będzię więc 0
     }
 
-
-
     public boolean highPriority() {
         return priority > 0;
     }

@@ -11,14 +11,13 @@ public class Main {
         System.out.println("Czy task1 ma wysoki priorytet?\t\t" + task1.highPriority());
         System.out.println("Czy task1 ma średni priorytet?\t\t" + task1.mediumPriority());
         System.out.println("Czy task1 ma niski priorytet?\t\t" + task1.lowPriority());
-        System.out.println("\n**********************************\n");
+        System.out.println("**********************************");
         System.out.println("Czy task2 ma wysoki priorytet?\t\t" + task2.highPriority());
         System.out.println("Czy task2 ma średni priorytet?\t\t" + task2.mediumPriority());
         System.out.println("Czy task2 ma niski priorytet?\t\t" + task2.lowPriority());
-        System.out.println("\n**********************************\n");
+        System.out.println("**********************************");
         System.out.println("Czy task3 ma wysoki priorytet?\t\t" + task3.highPriority());
         System.out.println("Czy task3 ma średni priorytet?\t\t" + task3.mediumPriority());
         System.out.println("Czy task3 ma niski priorytet?\t\t" + task3.lowPriority());
-
     }
 }
